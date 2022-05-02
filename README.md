@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/94703627/166254239-b8fe418d-ed6d-4531-866d-58df77e03037.png)
+<!-- ![image](https://user-images.githubusercontent.com/94703627/166254239-b8fe418d-ed6d-4531-866d-58df77e03037.png) -->
+![image](https://user-images.githubusercontent.com/94703627/166288007-34d3536f-22af-4ee9-899a-e1bb99008fae.png)
 
 # ⚙️ Skills
 
