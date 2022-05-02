@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Sasu-Osayande
-- 👀 I’m interested in coding and fashion design
-- 🌱 I’m currently learning front end and back end web development
-- 💞️ I’m looking to collaborate on coding and fashion projects
-- 📫 How to reach me Slack: @osayande.sasu
+![image](https://user-images.githubusercontent.com/94703627/166254239-b8fe418d-ed6d-4531-866d-58df77e03037.png)
 
 <!---
 Sasu-Osayande/Sasu-Osayande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
