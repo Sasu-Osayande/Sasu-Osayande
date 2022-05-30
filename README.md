@@ -3,7 +3,7 @@
 
 # ⚙️ Skills
 
-## JavaScript | Ruby | SQL | HTML | CSS
+<img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="40"> <img src="https://i.stack.imgur.com/PgcSR.png" height="50"> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="50">
 
 ### NodeJS | React | Ajax | Express | jQuery | Ruby on Rails | Bootstrap | ReactJS | Socket.IO | EJS
 
