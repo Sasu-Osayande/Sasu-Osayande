@@ -7,7 +7,7 @@
 
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40"> <img src="https://expressjs.com/images/express-facebook-share.png" height="40"> <img src="https://www.logolynx.com/images/logolynx/7c/7cd9586a595db92320ebf7beab22a7af.png" height="40"> <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" height="40"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="40"> <img src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" height="40"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalJsp6dTQyotfjSrj9R85c8PWg8FC-cmTMECXxnUj2IVU6mQXIm8Rt6PDDI0rgbT-aDQ&usqp=CAU" height="40">
 
-### PostgreSQL | MySQL
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="60"> <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" height="60">
 
 ### Mocha & Chai | Jest | Storybook | Cypress | Rspec
 
