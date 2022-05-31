@@ -11,7 +11,7 @@
 
 <img src="https://camo.githubusercontent.com/7fbd61a113b7f10ed1709e74f3715a2a60ba5177/687474703a2f2f61706974657374696e672e626967737469636b6361727065742e636f6d2f6173736574732f696d672f6d6f6368612d636861692f6c6f676f2e706e67" height="40"> <img src="https://nx.dev/documentation/shared/jest-logo.png" height="40"> <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" height="40"> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="40"> <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/3c3541c0-219f-11e8-b0f5-4b63dacb88da.png" height="40">
 
-#### Adobe Illustrator | InDesign | Photoshop
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" height="40"> <img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" height="40">
 
 ☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
