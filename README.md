@@ -9,7 +9,7 @@
 
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="60"> <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" height="60">
 
-### Mocha & Chai | Jest | Storybook | Cypress | Rspec
+<img src="https://camo.githubusercontent.com/7fbd61a113b7f10ed1709e74f3715a2a60ba5177/687474703a2f2f61706974657374696e672e626967737469636b6361727065742e636f6d2f6173736574732f696d672f6d6f6368612d636861692f6c6f676f2e706e67" height="40"> <img src="https://nx.dev/documentation/shared/jest-logo.png" height="40"> <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" height="40"> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="40"> <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/3c3541c0-219f-11e8-b0f5-4b63dacb88da.png" height="40">
 
 #### Adobe Illustrator | InDesign | Photoshop
 
